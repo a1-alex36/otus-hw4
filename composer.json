@@ -1,0 +1,13 @@
+{
+    "name": "alexm/otus-hw4",
+    "type": "lib",
+    "license": "GNU v3",
+    "description": "lib1",
+    "authors": [
+        {
+            "name": "a1-alex36",
+            "email": "a1-alex36@yandex.ru"
+        }
+    ],
+    "require": {}
+}
