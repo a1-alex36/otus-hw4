@@ -9,5 +9,10 @@
             "email": "a1-alex36@yandex.ru"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "//Otus//hw4//socket": "src"
+        }
+    }
 }
