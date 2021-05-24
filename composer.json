@@ -12,7 +12,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "//Otus//hw4//socket": "src"
+            "Otus\\Hw4\\": "src/"
         }
     }
 }
